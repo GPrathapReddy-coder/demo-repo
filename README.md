@@ -1,4 +1,4 @@
 # demo-repo
 Demo Repository
 <br>
-Author - Prathap
+Author - Prathap (alpha-knowledge)
